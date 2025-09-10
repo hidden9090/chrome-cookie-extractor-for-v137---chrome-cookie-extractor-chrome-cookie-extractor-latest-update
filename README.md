@@ -12,3 +12,13 @@ if you do not want to compile and use exe directly make sure you have dlls insid
 example usage:
 youexe.exe /chrome #this will make new json file and write your cookies to it
 this tool is solely for educational purpose
+
+
+
+
+
+make sure to change your username in     string db_path = "C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Cookies";
+
+
+![screenshot](https://prnt.sc/vdUFxkwTIg_3) 
+
