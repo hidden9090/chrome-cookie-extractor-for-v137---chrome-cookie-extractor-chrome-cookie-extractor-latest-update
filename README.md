@@ -20,5 +20,5 @@ this tool is solely for educational purpose
 make sure to change your username in     string db_path = "C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Network\\Cookies";
 
 
-![screenshot](https://prnt.sc/vdUFxkwTIg_3) 
+![screenshot](https://files.catbox.moe/veq63f.jpg) 
 
