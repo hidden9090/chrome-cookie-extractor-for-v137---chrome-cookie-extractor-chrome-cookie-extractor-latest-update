@@ -13,6 +13,26 @@ example usage:
 youexe.exe /chrome #this will make new json file and write your cookies to it
 this tool is solely for educational purpose
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+
+
+
+
 
 
 
